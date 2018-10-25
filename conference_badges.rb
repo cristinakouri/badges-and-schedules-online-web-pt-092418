@@ -7,3 +7,5 @@ def batch_badge_creator(name_array)
     badge_maker(name)
   end 
 end 
+
+batch_badge_creator(['bob', 'sara', 'emily'])
